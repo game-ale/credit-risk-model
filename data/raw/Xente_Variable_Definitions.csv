@@ -1,7 +1,7 @@
 Column Name,Definition
 TransactionId,Unique �transaction identifier on platform
 BatchId,Unique number assigned to a batch of transactions for processing
-AccountId,Unique number f the customer on platform
+AccountId,Unique number identifying the customer on platform
 SubscriptionId,Unique number identifying the customer subscription
 CustomerId,Unique identifier attached to Account
 CurrencyCode,Country currency
